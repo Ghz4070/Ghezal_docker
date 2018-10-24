@@ -1,0 +1,1 @@
+Je n'ai pas trop compris la création d'un utilisateur dans apache, dans la documentation il etait demandé de créer un mot de passe sinon celui ci serais inactif. Du coup j'ai juste fait un useradd pas de mot de passe j'ai pas su le faire dans le Dockerfile, lors de la compilation sa voulais pas marcher avec.
